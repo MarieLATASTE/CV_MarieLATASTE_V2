@@ -46,7 +46,8 @@ li{
 .profil{
     border-top: 5px solid #0000ff;
     border-bottom: 5px solid #0000ff;
-}.skills, .contact{border-bottom: 5px solid #0000ff;}
+}
+.skills, .contact{border-bottom: 5px solid #0000ff;}
 i{color: #0000ff;}
 .right{
     border-left: 3px solid #0000ff;
