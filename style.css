@@ -42,9 +42,11 @@ li{
 .container{
     width: 100%;
     display: flex;
+    padding-left: 1rem;
 }
 .container h2{
     color: #0000ff;
+    padding-left: 1rem;
 }
 .container span{
     color: #0000ff;
@@ -57,9 +59,9 @@ li{
 .profil{
  /*   border-top: 5px solid #0000ff;
     border-bottom: 5px solid #0000ff;*/
-    background: rgba(255,255,255,.1);
-    backdrop-filter: blur(5px);
-    margin: auto;
+    background: rgba(255,255,255,.15);
+    backdrop-filter: blur(6px);
+    margin: 15px;
     border-radius: 1rem;
     box-shadow: 0 20px 25px rgba(0,0,0,.15);
     border-top: 1px solid rgba(255,255,255,.5);
@@ -72,8 +74,8 @@ li{
    margin: auto;
    border-radius: 1rem;
    box-shadow: 0 20px 25px rgba(0,0,0,.15);
-   border-top: 1px solid rgba(255,255,255,.5);
-   border-left: 1px solid rgba(255,255,255,.5);
+   border-top: 2px solid rgba(255,255,255,.5);
+   border-left: 2px solid rgba(255,255,255,.5);
 }
 i{
     color: #0000ff;
@@ -124,7 +126,7 @@ i{
         margin-left: .25rem;
         border-radius: 25px;
         box-shadow: 0 20px 25px rgba(0,0,0,.15);
-        border-top: 1px solid rgba(255,255,255,.5);
-        border-left: 1px solid rgba(255,255,255,.5); 
+        border-top: 2px solid rgba(255,255,255,.5);
+        border-left: 2px solid rgba(255,255,255,.5); 
     }
 }
